@@ -1,3 +1,7 @@
 info file
+<<<<<<< Updated upstream
 
 line 2
+=======
+line 1
+>>>>>>> Stashed changes
